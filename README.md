@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Chaudhary</h1>
-<h3 align="center">Always ready to learn more and more ||looking for Open Source Contribution && Internship Opportunity || Looking for a challenging carrier in Software Industry</h3>
+<h3 align="center">Always ready to learn more and more || Looking for a challenging carrier in Software Industry</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul6075&label=Profile%20views&color=0e75b6&style=flat" alt="rahul6075" /> </p>
 
